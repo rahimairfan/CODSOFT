@@ -1,7 +1,7 @@
 # CODSOFT
 ### Data Science Internship Experience
 <style>
-  ul {
+ul {
     color: red;
   } 
 </style>
